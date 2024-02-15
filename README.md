@@ -2,11 +2,9 @@
 Me chamo Eder OLiveira, estudante de desenvolvimento de software, com foco em backend com Java e banco de dados SQL. Atualmente trabalho como Analista de Suporte de TI. </br>
 
 > "Programming is not a science. Programming is a craft." - Richard Stallman
-> <span style="color:blue">"Programming is not a science. Programming is a craft."</span>
 
 # 🚀 Sobre mim
 
-<span style="color: red;">text</span>
 Conheci o mundo da tecnologia aos 14 anos através da segurança da informação, onde eu entendi a necessidade de saber programar para ser um um bom profissional. Foi então que eu conheci o mundo de desenvolvimento de software, cujo conhecimento é
 
 necessário até entre os profissionais de segurança. Um caminho sem volta, me apaixonei por aprender mais e mais sobre o imenso mundo do software, por aprender novas linguagens, como as "coisas" funcionam, como eu posso resolver problemas do
@@ -21,3 +19,10 @@ diferentes linguagens de programação, estruturas de dados, algoritmos entre ou
 
 # 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ederoliv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ederoliveira556) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ederoliv.vercel.app)
+
+<span style="color:#520099;">or make it blue</span>
+
+# Markdown
+    ```{=latex}
+    \textcolor{red}{your text here}
+    ```
