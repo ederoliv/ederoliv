@@ -2,6 +2,7 @@
 Me chamo Eder OLiveira, estudante de desenvolvimento de software, com foco em backend com Java e banco de dados SQL. Atualmente trabalho como Analista de Suporte de TI. </br>
 
 > "Programming is not a science. Programming is a craft." - Richard Stallman
+> <span style="color:blue">"Programming is not a science. Programming is a craft."</span>
 
 # 🚀 Sobre mim
 
