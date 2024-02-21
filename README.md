@@ -6,8 +6,9 @@ Me chamo Eder OLiveira, estudante de desenvolvimento de software, com foco em ba
 # 🚀 Sobre mim
 
 Conheci o mundo da tecnologia aos 14 anos através da segurança da informação, onde eu entendi a necessidade de saber programar para ser um bom profissional. Foi então que eu conheci o mundo de desenvolvimento de software, cujo conhecimento é
+necessário até entre os profissionais de segurança. 
 
-necessário até entre os profissionais de segurança. Um caminho sem volta, me apaixonei por aprender mais e mais sobre o imenso mundo do software, por aprender novas linguagens, como as "coisas" funcionam, como eu posso resolver problemas do
+Um caminho sem volta, me apaixonei por aprender mais e mais sobre o imenso mundo do software, por aprender novas linguagens, como as "coisas" funcionam, como eu posso resolver problemas do
 dia a dia com software e ajudar pessoas. Desejo ser parte de um mundo melhor, onde há interação entre as pessoas e a tecnologia nos ajude a evoluir em todos os aspectos.
 
 Se quiser, pode conhecer meus repositórios, onde eu busquei resolver problemas que encontrei, desenvolvi projetos para a faculdade e também projetos onde pude testar e aprimorar meus conhecimentos em determinadas tecnologias, utilizando
