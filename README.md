@@ -1,16 +1,97 @@
-# 👋 Olá!
-Me chamo Eder OLiveira, estudante de desenvolvimento de software, com foco em backend com Java e banco de dados SQL. Atualmente trabalho como Analista de Suporte de TI. </br>
+<div align="center">
 
-> "Programming is not a science. Programming is a craft." - Richard Stallman
+<img src="./assets/banner.svg" alt="Eder Oliveira — Dev Fullstack" width="100%">
 
-# 🚀 Sobre
+</div>
 
-Aqui você pode conhecer meus repositórios, onde eu busquei resolver problemas que encontrei, desenvolvi projetos para a faculdade e também projetos onde pude testar e aprimorar meus conhecimentos em determinadas tecnologias, utilizando
-diferentes linguagens de programação, estruturas de dados, algoritmos entre outras ferramentas.
+```text
+> NEO-TOKYO NET v2.019 ............ ok
+> carregando perfil: dev.fullstack  ok
+> stack: .NET | React | Next.js | RN ok
+> acesso liberado.
+```
 
-# 💻 Tecnologias
+<img src="./assets/hazard.svg" alt="" width="100%">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Swagger Validator](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) ![.NET Framework](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+## SOBRE · アクセス許可
 
-# 🌐 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ederoliv) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/invite/edermossad) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ederoliv.vercel.app) 
+Sou desenvolvedor **fullstack júnior**. No back-end trabalho com **.NET Framework**, C#, ASP.NET e SQL Server. No front, uso **React** e **Next.js**. No mobile, **React Native**.
+
+Gosto de ver uma ideia sair do banco de dados e chegar funcionando na mão de quem usa. Agora estou migrando meu conhecimento do .NET Framework para o **.NET moderno**.
+
+```text
+┌─ FICHA DO DESENVOLVEDOR ──────────────────────┐
+│ NOME     Eder Oliveira                        │
+│ FUNÇÃO   Dev Fullstack Jr                     │
+│ BASE     Brasil                               │
+│ FOCO     .NET · React · Next.js · Mobile      │
+│ STATUS   ONLINE — aberto a projetos          │
+└───────────────────────────────────────────────┘
+```
+
+<img src="./assets/hazard.svg" alt="" width="100%">
+
+## STACK · システム
+
+**BACK-END**
+
+![C#](https://img.shields.io/badge/-C%23-e4162b?style=for-the-badge&logo=csharp&logoColor=white&labelColor=08080a)
+![.NET Framework](https://img.shields.io/badge/-.NET_Framework-e4162b?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=08080a)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET_MVC-e4162b?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=08080a)
+![Web API](https://img.shields.io/badge/-Web_API-e4162b?style=for-the-badge&labelColor=08080a)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-e4162b?style=for-the-badge&labelColor=08080a)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-e4162b?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=08080a)
+
+**FRONT-END**
+
+![React](https://img.shields.io/badge/-React-e4162b?style=for-the-badge&logo=react&logoColor=white&labelColor=08080a)
+![Next.js](https://img.shields.io/badge/-Next.js-e4162b?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=08080a)
+![TypeScript](https://img.shields.io/badge/-TypeScript-e4162b?style=for-the-badge&logo=typescript&logoColor=white&labelColor=08080a)
+![JavaScript](https://img.shields.io/badge/-JavaScript-e4162b?style=for-the-badge&logo=javascript&logoColor=white&labelColor=08080a)
+![HTML](https://img.shields.io/badge/-HTML-e4162b?style=for-the-badge&logo=html5&logoColor=white&labelColor=08080a)
+![CSS](https://img.shields.io/badge/-CSS-e4162b?style=for-the-badge&logo=css3&logoColor=white&labelColor=08080a)
+
+**MOBILE**
+
+![React Native](https://img.shields.io/badge/-React_Native-e4162b?style=for-the-badge&logo=react&logoColor=white&labelColor=08080a)
+![Expo](https://img.shields.io/badge/-Expo-e4162b?style=for-the-badge&logo=expo&logoColor=white&labelColor=08080a)
+
+**FERRAMENTAS**
+
+![Git](https://img.shields.io/badge/-Git-e4162b?style=for-the-badge&logo=git&logoColor=white&labelColor=08080a)
+![GitHub](https://img.shields.io/badge/-GitHub-e4162b?style=for-the-badge&logo=github&logoColor=white&labelColor=08080a)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-e4162b?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=08080a)
+
+<img src="./assets/hazard.svg" alt="" width="100%">
+
+## PROJETOS · ファイル
+
+| ARQUIVO | DESCRIÇÃO | STACK | LINKS |
+| :-- | :-- | :-- | :-- |
+| **01 · Kaneda ERP** | Sistema web de gestão para pequenas empresas: clientes, pedidos, estoque e relatórios. | C# · .NET Framework · ASP.NET MVC · SQL Server | [Código](#) · [Demo](#) |
+| **02 · Neo Shop** | Loja online com catálogo, carrinho e checkout. O front em Next.js consome uma Web API em .NET. | Next.js · React · TypeScript · Web API | [Código](#) · [Demo](#) |
+| **03 · Capsule App** | App para iOS e Android com login, listas e notificações, ligado à mesma API. | React Native · Expo · TypeScript | [Código](#) · [Vídeo](#) |
+
+<!-- Opcional: cartões de estatísticas. Troque SEU-USUARIO pelo seu usuário do GitHub. -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&bg_color=08080a&title_color=e4162b&text_color=ece6d8&icon_color=e4162b&ring_color=e4162b&border_color=e4162b" alt="Estatísticas do GitHub" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&bg_color=08080a&title_color=e4162b&text_color=ece6d8&border_color=e4162b" alt="Linguagens mais usadas" height="170">
+</p>
+
+<img src="./assets/hazard.svg" alt="" width="100%">
+
+## CONTATO · 連絡
+
+Aberto a vagas, freelas e projetos em .NET, web e mobile.
+
+[![E-mail](https://img.shields.io/badge/-E--MAIL-e4162b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=08080a)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-e4162b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08080a)](https://linkedin.com/in/seu-usuario)
+[![Portfólio](https://img.shields.io/badge/-PORTF%C3%93LIO-e4162b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=08080a)](https://seu-portfolio.com)
+
+<div align="center">
+
+```text
+> FIM DA TRANSMISSÃO.
+```
+
+</div>
